@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Mohanish</h1>
-<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="260px" align="left">
+<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="275px" align="left">
 
 <li>🖥 I’m currently working on: Web devlopment
 <li>🚢 I’m currently engaged in: React and Node 
