@@ -4,8 +4,8 @@
 <li>🖥 I’m currently working on: Web devlopment
 <li>🚢 I’m currently engaged in: React and Node 
 <li>📊 I’m currently learning: Fundamentals of Data Science with Python
-<li>🚢 I’m currently exploring: about Open Source 
-<li>💬 Ask me about: C++ and Data Science
+<li>🧐� I’m currently exploring: about Open Source 
+<li>💬 Ask me about: C++ and Data Science and CS related concepts
 <li>🤗 Recreational activities: 🎧Music and ⚽️Football 
 <li>⚜ Pronouns: He/His
 <li>📧 How to reach me: 20bcs133@iiitdmj.ac.in 
