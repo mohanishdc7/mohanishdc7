@@ -9,7 +9,7 @@
 <li>🤗 Recreational activities: 🎧Music and ⚽️Football 
 <li>⚜ Pronouns: He/His
 <li>📧 How to reach me: 20bcs133@iiitdmj.ac.in 
-<li>⚡ Fun fact: I'm not addicted to coffee☕️
+<li>⚡ Fun fact: I'm not addicted to coffee😁
   
   ### Github Usage ~ Stats
 ![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=highcontrast)
