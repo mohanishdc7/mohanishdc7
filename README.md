@@ -2,7 +2,7 @@
 <img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="295px" align="left">
 
 <li>🖥 I’m currently working on: Web devlopment
-<li>🚢 I’m currently engaged in: React and Node 
+<!-- <li>🚢 I’m currently engaged in: Flask and  -->
 <li>📊 I’m currently learning: Fundamentals of Data Science with Python
 <li>🧐 I’m currently exploring: about Open Source 
 <li>💬 Ask me about: C++ and Data Science and CS related concepts
