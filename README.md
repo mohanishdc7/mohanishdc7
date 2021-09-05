@@ -5,7 +5,7 @@
 <!-- <li>🚢 I’m currently engaged in: Flask and  -->
 <li>📊 I’m currently learning: Data Science with Watson Studio Instances and Jupyter Notebooks
 <li>🧐 I’m currently exploring: about Open Source 
-<li>💬 Ask me about: C++ and Data Science and CS related concepts
+<li>💬 Ask me about: C++/DSA and Data Science/ML 
 <li>🤗 Recreational activities: 🎧Music and ⚽️Football 
 <li>⚜ Pronouns: He/His
 <li>📧 How to reach me: 20bcs133@iiitdmj.ac.in 
