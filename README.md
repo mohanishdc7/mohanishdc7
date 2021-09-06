@@ -8,7 +8,7 @@
 <li>💬 Ask me about: C++/DSA and Data Science/ML 
 <li>🤗 Recreational activities: 🎧Music and ⚽️Football 
 <li>⚜ Pronouns: He/His
-<li>📧 How to reach me: 20bcs133@iiitdmj.ac.in 
+<li>📧 How to reach me: <a href="mailto:20bcs133@iiitdmj.ac.in">20bcs133@iiitdmj.ac.in</a> 
 <li>⚡ Fun fact: I'm not addicted to coffee😁
   
   ### Github Usage ~ Stats
