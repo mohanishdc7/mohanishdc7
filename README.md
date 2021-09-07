@@ -1,12 +1,11 @@
 <h1 align="center">Hey there! I'm Mohanish</h1>
-<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="350px" align="right">
+<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="325px" align="right">
 
 <li>🖥 I’m currently working on: Web devlopment
 <!-- <li>🚢 I’m currently engaged in: Flask and  -->
 <li>📊 I’m currently learning: Data Science with Watson Studio Instances and Jupyter Notebooks
 <li>🧐 I’m currently exploring: about Open Source 
 <li>💬 Ask me about: C++/DSA and Data Science/ML 
-<li>🤗 Recreational activities: 🎧Music and ⚽️Football 
 <li>⚜ Pronouns: He/His
 <li>📧 How to reach me: <a href="mailto:20bcs133@iiitdmj.ac.in">20bcs133@iiitdmj.ac.in</a> 
 <li>⚡ Fun fact: I'm not addicted to coffee😁
