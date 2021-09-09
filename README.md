@@ -5,7 +5,7 @@
 <!-- <li>🚢 I’m currently engaged in: Flask and  -->
 <li>📊 I’m currently learning: Data Science with Watson Studio Instances and Jupyter Notebooks
 <li>🧐 I’m currently exploring: about Open Source 
-<li>💬 Ask me about: C++/DSA and Data Science Concepts 
+<li>💬 Ask me about: "Anthing"
 <li>⚜ Pronouns: He/His
 <li>📧 How to reach me: <a href="mailto:20bcs133@iiitdmj.ac.in">20bcs133@iiitdmj.ac.in</a> 
 <li>⚡ Fun fact: I'm not addicted to coffee😁
