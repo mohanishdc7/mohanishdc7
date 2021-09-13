@@ -11,7 +11,7 @@
 <li>⚡ Fun fact: I'm not addicted to coffee😁
   
   ### Github Usage ~ Stats
-![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=dracula)
+![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=chartreuse-dark)
   
   ### Languages and Tools
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
