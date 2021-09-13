@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Mohanish</h1>
-<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="325px" align="right">
+<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="" width="300px" align="right">
 
 <li>🖥 I’m currently working on: Web devlopment
 <!-- <li>🚢 I’m currently engaged in: Flask and  -->
@@ -11,7 +11,7 @@
 <li>⚡ Fun fact: I'm not addicted to coffee😁
   
   ### Github Usage ~ Stats
-![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=highcontrast)
+![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=dracula)
   
   ### Languages and Tools
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
