@@ -45,5 +45,5 @@
   <br/>
   <br/>
   
-Wanna know more about me?<br>
+<!-- Wanna know more about me?<br> -->
 <!-- <a href="https://mohanishdc7.github.io" target=_blank>Take a look at my Portfolio Website</a> -->
