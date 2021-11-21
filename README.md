@@ -1,13 +1,9 @@
 <h1 align="center">Hey there! I'm Mohanish</h1>
 
 <li>🖥 I’m currently working on: Web devlopment
-<!-- <li>🚢 I’m currently engaged in: Flask and  -->
-<li>📊 I’m currently learning: Data Science with Watson Studio Instances and Jupyter Notebooks
+<li>📊 I’m currently learning: Backend programming with Flask
 <li>🧐 I’m currently exploring: about Open Source 
-<li>💬 Ask me about: "Anything"
-<li>⚜ Pronouns: He/His
 <li>📧 How to reach me: <a href="mailto:20bcs133@iiitdmj.ac.in">20bcs133@iiitdmj.ac.in</a> 
-<li>⚡ Fun fact: I'm not addicted to coffee😁
   
   ### Github Usage ~ Stats
 ![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=chartreuse-dark)
