@@ -3,7 +3,7 @@
 <li>🖥 I’m currently working on: Web devlopment
 <li>📊 I’m currently learning: Backend programming with Flask
 <li>🧐 I’m currently exploring: about Open Source 
-<li>📧 How to reach me: <a href="mailto:20bcs133@iiitdmj.ac.in">20bcs133@iiitdmj.ac.in</a> 
+<li>📧 How to reach me: <a href="mailto:mm21b040@smail.iitm.ac.in">mm21b040@smail.iitm.ac.in</a> 
   
   ### Github Usage ~ Stats
 ![Mohanish's github stats](https://github-readme-stats.vercel.app/api?username=mohanishdc7&show_icons=true&theme=chartreuse-dark)
